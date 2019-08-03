@@ -4,6 +4,9 @@ package org.sang.bean;
  * Created by sang on 2018/1/29.
  */
 public class ChatResp {
+    public static void main(String[] args) {
+
+    }
     private String msg;
     private String from;
 
